@@ -2,6 +2,6 @@
 
 created by Vivian(xijing liu)
 
-This is a simple shopping website for furniture. 
+This is a simple shopping website for furniture and use the java/spring. 
 
-the functions include: sign in, sign up, 
+the functions include: Login, register, browse products, expand details, add products to cart.
